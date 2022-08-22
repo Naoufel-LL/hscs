@@ -759,3 +759,5 @@ footer img {
     margin-bottom: 25px;
   }
 }
+
+html, body { overflow-x: hidden; }
