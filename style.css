@@ -748,3 +748,14 @@ footer img {
   width: 150px;
   padding: 30px;
 }
+@media screen and (max-width:650px){
+  .section-2 .left{
+    width: 90%;
+  }
+  .whyus-section{
+     flex-direction: column;
+  }
+  .cards-row .card{
+    margin-bottom: 25px;
+  }
+}
